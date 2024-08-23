@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mycyan {
+  color: hsl(178, 100%, 50%);
+}
